@@ -1,5 +1,11 @@
-### Hi I'm Supanat Kaewwachararunhsi ,Welcome to my github profile 👋
-##### 👯 I'm looking for an internship.I'm interested in front end developer , web developer and Software Engineer.I wish gain more experience during an internship.
+# Hi I'm Supanat Kaewwachararunhsi ,Welcome to my github profile 👋
+👯 I'm looking for an internship.I'm interested in front end developer , web developer and Software Engineer.I wish gain more experience during an internship.
+🌱 I’m currently learning front end developer , web developer , Software Engineer and more
+
+## Contact Me
+👉[Facebook]{https://www.facebook.com/supanat1998/}<br>
+👉[Instagram]{https://www.instagram.com/f1uker_tp/}<br>
+👉[E-mail : supanat.10@gmail]<br>
 <!--
 **F1ukEr/F1ukEr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
