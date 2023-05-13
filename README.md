@@ -1,5 +1,5 @@
 # Hi I'm Supanat Kaewwachararunhsi ,Welcome to my github profile 👋
-👯 I'm looking for an internship.I'm interested in front end developer , web developer and Software Engineer.I wish gain more experience during an internship.
+👯 I'm Student Information Technology at Ramkhamhaeng University.Now I'm looking for an internship.I'm interested in front end developer , web developer and Software Engineer.I wish gain more experience during an internship.
 🌱 I’m currently learning front end developer , web developer , Software Engineer and more
 
 ## Contact Me
